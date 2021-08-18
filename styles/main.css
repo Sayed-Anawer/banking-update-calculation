@@ -1,0 +1,35 @@
+header,section,div,h1,h2{
+    margin:auto;
+    width: 50%;
+    /* border: 2px solid rebeccapurple; */
+}
+header,section,div{
+    margin-top: 50px;
+    text-align: center;
+}
+input{
+    width: 50%;
+    margin: 10px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid slateblue;
+}
+span{
+    color:slateblue;
+}
+button{
+    font-size: 1.2rem;
+    color: rebeccapurple;
+    margin:auto;
+    width: 55%;
+    display: block;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 1px solid slateblue;
+    cursor: pointer;
+    background:rgb(90, 216, 221);
+}
+button:hover{
+   background: slateblue; 
+   color: rgb(226, 226, 226);
+}
